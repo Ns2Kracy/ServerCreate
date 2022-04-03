@@ -1,0 +1,13 @@
+{
+    "name": "main",
+    "configurations": [
+        {
+            "type": "go",
+            "name": "myCustomRunConfiguration",
+            "mode": "debug",
+            "goExecPath": "E:/Coding/Go/SDK/bin/go",
+            "params": ["debug"],
+            "buildTargets": "E:/Coding/Go/GoProject/ServerCreate/main.go"
+        }
+    ]
+}

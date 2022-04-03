@@ -1,0 +1,21 @@
+{
+  "app_name": "ServerCreat",
+  "port": "8080",
+  "static_path": "",
+  "mysql": {
+    "drive": "mysql",
+    "host": "139.224.19.236",
+    "port": "3306",
+    "user": "root",
+    "pwd": "nk20021001",
+    "database": "servercreate"
+  },
+  "redis": {
+    "net_work": "tcp",
+    "addr": "139.224.19.236",
+    "port": "6379",
+    "password": "nk20021001",
+    "prefix": "ServerCreate"
+  },
+  "mode": "debug"
+}
